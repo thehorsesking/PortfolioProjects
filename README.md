@@ -26,11 +26,9 @@ I used this dataset to find out : <br/>
 
  
 ####  [Project - Analyze International Debt Statistics](https://github.com/thehorsesking/PortfolioProjects/blob/main/notebook.ipynb "CLA project") <br /> ####
-Microsoft SQL Server Management Studio project which is a real data of Chinese loan given to African countries from year 2000 to 2020. 
-The Chinese Loans to Africa (CLA) Database is a data project tracking loan commitments from Chinese policy and commercial banks, 
-government entities, companies and other financiers, to African governments and state-owned enterprises. As of March 29, 2021, the CLA Database is managed by the 
-[Boston University Global Development Policy Center](https://www.bu.edu/gdp/chinese-loans-to-africa-database/ ).  <br /><br />
-I used this dataset to find out : <br/>
-  * Which country received the maximum loan 
-  * Which lender gave the maximum loan
-  * What types of projects are heavily funded by Chinese government in Africa
+PostgreSQL project in Jupyter notebook for analyzing international debt statistics using data from world bank.<br /><br />
+
+   * What is the average debt across countries?
+   * What is the maximum debt indicator?
+   * Which country has the highest debt in which debt indicator etc.
+
